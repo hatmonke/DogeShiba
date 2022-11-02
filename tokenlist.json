@@ -1,0 +1,40 @@
+{
+  "name": "DoshibList",
+  "logoURI": "https://doshib.net/assets/Logo.webp",
+  "keywords": [
+    "DOSHIB",
+    "DC"
+  ],
+  "timestamp": "2022-11-01T18:47:51+00:00",
+  "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0xA0eB9a6063Df850F611AA69C60025c7f8eB4d6ee",
+      "name": "DogeShiba",
+      "symbol": "DOSHIB",
+      "decimals": 18,
+      "logoURI": "https://doshib.net/assets/Logo.webp"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "name": "Wrapped WDOGE",
+      "symbol": "WWDOGE",
+      "decimals": 18,
+      "logoURI": "https://dogecoin.com/assets/images/doge.webp"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+      "name": "DogeChain",
+      "symbol": "DC",
+      "decimals": 18,
+      "logoURI": "https://dogechain.dog/pcImages/img_63.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
